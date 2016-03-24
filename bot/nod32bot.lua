@@ -245,11 +245,11 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {119408525},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/nimaanonymous/nimakazerouni.git
+https://github.com/nimaanonymous/nimakazerouni
 
 channel : @anonymousbot
 sodu : @anonymou3nk
