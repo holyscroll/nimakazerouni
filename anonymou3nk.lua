@@ -518,7 +518,7 @@ PV🔗فرستادن لینک گروه تو پیوی★
 you can use both "/" and "!" and "."
 ♥شما میتوانید از ! و / و . استفاده کنید★
 
-♚channel ↬ @anonymousbot↫
+♚channel ↬ @anonymou3bot↫
 
 ♚sudo bot ↬ @anonymou3nk↫
 
